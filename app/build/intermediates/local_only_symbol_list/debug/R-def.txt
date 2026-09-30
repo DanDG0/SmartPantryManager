@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+id action_settings
+id action_suggested
+id btnDelete
+id btnSave
+id etExpiry
+id etName
+id etQuantity
+id fabAdd
+id recyclerPantry
+id recyclerRecipes
+id spUnit
+id switchExpiry
+id tvDetail
+id tvDetailIngredients
+id tvDetailName
+id tvDetailSteps
+id tvEmpty
+id tvIngredientCount
+id tvName
+id tvNoMatch
+id tvRecipeName
+layout activity_add_edit
+layout activity_pantry
+layout activity_recipe_detail
+layout activity_settings
+layout activity_suggested
+layout item_pantry
+layout item_recipe
+menu main_menu
+string app_name
+style Theme.SmartPantry
